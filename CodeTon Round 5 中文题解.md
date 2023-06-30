@@ -72,7 +72,7 @@ $g$ 需要支持区间加，全局最大值（假设不合法的位置为 $0$）
 
 枚举所有的 $root$，然后使用 bfs 按照到 $root$ 的距离加点，复杂度为 $O(n^2)$。
 
-### Tenzing and Random Operations 题解
+# Tenzing and Random Operations 题解
 
 在本题的做法开始前，有两点基本性质：
 
